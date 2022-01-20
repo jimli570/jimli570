@@ -1,4 +1,13 @@
-# Hi there 👋
+# Hello fellow developers 👋
+
+
+<img align="right" alt="Matrix" src="https://github.com/jimli570/jimli570/blob/main/matrix.gif?raw=true" />
+
+💻 Welcome to my github profile, this is where I keep most of my code, both public and private.
+
+👜 Portfolio can be found at <a href="https://www.jimmyliikala.se">https://www.jimmyliikala.se</a>
+
+<!-- [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=jimli570&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev) -->
 
 <!--
 **jimli570/jimli570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
