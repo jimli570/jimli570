@@ -1,7 +1,7 @@
 # Hello fellow developers 👋
 
 
-<img align="right" alt="Matrix" src="https://github.com/jimli570/jimli570/blob/main/matrix.gif?raw=true" />
+<img align="right" alt="Matrix" src="https://github.com/jimli570/jimli570/blob/main/matrix2.gif?raw=true" />
 
 💻 Welcome to my github profile, this is where I keep most of my code.
 
