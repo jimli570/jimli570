@@ -3,7 +3,7 @@
 
 <img align="left" alt="Matrix" src="https://github.com/jimli570/jimli570/blob/main/matrix2.gif?raw=true" />
 
-💻 Welcome to my github profile, this is where I keep most of my code.
+💻 Welcome to my github profile, this is where I keep most of my code. Some public, most private.
 
 👜 Portfolio can be found at <a href="https://www.jimmyliikala.se">https://www.jimmyliikala.se</a>
 
